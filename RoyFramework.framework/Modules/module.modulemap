@@ -1,0 +1,6 @@
+framework module RoyFramework {
+  umbrella header "RoyFramework.h"
+
+  export *
+  module * { export * }
+}
