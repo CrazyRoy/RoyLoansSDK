@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "RoyLoansSDK"
-  s.version          = "1.0.0"
+  s.version          = "1.0.2"
   s.summary          = "A fast borrowing, easy to inherit SDK"
   s.description      = <<-DESC
   内部封装了整个借款流程，包括：注册、登录、填写借款资料、借款额度评估、借款申请、借款状态查询、绑定银行卡、到期还款等功能，最大程度上保证了优质的用户体验。
